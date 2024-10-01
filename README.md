@@ -50,13 +50,17 @@
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullkamilla&theme=highcontrast">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullkamilla&theme=highcontrast">
-<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullkamilla&theme=highcontrast"> -->
-<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullkamilla&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+
+<!-- Карточка с наиболее используемыми языками -->
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullkamilla&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+
+<!-- Карточка с языком, на котором было сделано больше всего коммитов -->
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullkamilla&theme=highcontrast">
-<!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullkamilla&theme=highcontrast&utcOffset=24"> -->
-<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullkamilla&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" /> -->
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdullkamilla&theme=highcontrast&hide_border=true&include_all_ C++  2 MIT License Updated 1 hour agocommits=false&count_private=false"> -->
+
+<!-- Общая статистика профиля GitHub -->
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=abdullkamilla&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+
+<!-- Статистика активности (streaks) -->
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullkamilla&theme=highcontrast&hide_border=true">
 
 </div><br>
